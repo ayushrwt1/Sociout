@@ -4,7 +4,7 @@
     "name": "sociout"
   },
   "api": {
-    "projectId": "rbz5vcyu",
+    "projectId": "PROJECT ID",
     "dataset": "production"
   },
   "plugins": [
